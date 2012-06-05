@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Holly Gray
-tagline: Fifteen, British, ~~polymath~~ too many interests.
+tagline: Fifteen, British, <strike>polymath</strike> too many interests.
 ---
 {% include JB/setup %}
 
